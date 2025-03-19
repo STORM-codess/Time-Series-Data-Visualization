@@ -12,8 +12,12 @@ Line Chart: Highlighted overall daily trends over the specified timeframe.
 
 Bar Chart: Showed average daily page views for each month, grouped by year.
 
+
+
 Box Plots: Compared yearly and monthly page view distributions to identify trends and seasonal patterns.
 
 Insights Gained: Identified yearly growth trends and seasonal fluctuations in user engagement.
 
 This project helped sharpen my skills in data cleaning, visualization, and storytelling through data
+
+
